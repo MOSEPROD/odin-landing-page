@@ -7,3 +7,4 @@ Some of the skills learnt are:
 - Create a flexbox and add elements in it 
 - Arrange the flexbox items in column and rows
 - Created 3 rows with images and text proportionally distributed
+- Managed to position two elements, one in the center and the other on the far right
