@@ -8,3 +8,4 @@ Some of the skills learnt are:
 - Arrange the flexbox items in column and rows
 - Created 3 rows with images and text proportionally distributed
 - Managed to position two elements, one in the center and the other on the far right
+- Ability to center a flex item in the middle using the cross axis
